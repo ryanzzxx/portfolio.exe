@@ -1,1 +1,1 @@
-# portfolio.exe
+O CloudBolt é uma Landing Page de login ultra-imersiva. O diferencial não está apenas no visual estático, mas na experiência sensorial: ícones de aplicativos flutuam em órbitas irregulares ao redor de um núcleo central 3D que, ao ser provocado pelo mouse, revela a identidade do usuário (seu Memoji de Leão). Tudo isso envolvido em uma camada de "vidro líquido" que reage ao fundo dinâmico.

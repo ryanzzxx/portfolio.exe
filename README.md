@@ -4,7 +4,7 @@ O CloudBolt é uma Landing Page de login ultra-imersiva. O diferencial não est�
 Semântica: tags como <header>, <main> e <div> para organizar a hierarquia.
 
 2. CSS3 Avançado
-Glassmorfismo (Liquid Glass): * backdrop-filter: blur(30px): Cria o efeito de vidro fosco.
+Glassmorfismo: * backdrop-filter: blur(30px): Cria o efeito de vidro fosco.
 gba(255, 255, 255, 0.1): Cores semi-transparentes para simular reflexos.
 Perspectiva 3D: * preserve-3d e rotateY(180deg): Permitem que o círculo central gire como uma moeda física no espaço.
 translateZ(60px): O segredo para o círculo parecer "saltado" para fora da tela.
